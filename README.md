@@ -21,8 +21,11 @@ This application is built to analyze private text messages between two parties a
 
 ## Tech stack
 100% javascript project, 
+
 Frontend: React.js
+
 Backend: Nodejs
+
 Animation assets from LottieFiles
 
 ## Data to use
