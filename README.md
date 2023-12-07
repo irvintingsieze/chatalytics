@@ -20,7 +20,7 @@ This application is built to analyze private text messages between two parties a
 7. General sentiment of messages
 
 ## Tech stack
-100% javascript project, 
+100% javascript + HTML project, 
 
 Frontend: React.js
 
